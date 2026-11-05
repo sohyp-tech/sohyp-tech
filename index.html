@@ -3,65 +3,154 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <meta name="description" content="Sohyp Khaled's portfolio: web projects, JavaScript tools, and backend APIs.">
+    <meta name="theme-color" content="#0b132b">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
     <link rel="stylesheet" href="style.css">
-    <title>sohyp-tech portfolio</title>
+    <title>Sohyp Khaled | Portfolio</title>
 </head>
-<body class="flex flex-col" dir="ltr">
-    <header class="head">
-        <a href="#" class="link">home</a>
-        <a href="#about" class="link">about</a>
-        <a href="#projects" class="link">projects</a>
-        <a href="#skills" class="link">skills</a>
-        <a href="#contact" class="link">contact</a>
+<body>
+    <header class="site-header">
+        <a class="brand" href="#home" aria-label="Sohyp's portfolio home">sohyp<span>.</span></a>
+        <nav class="site-nav" aria-label="Main navigation">
+            <a class="nav-link" href="#home">Home</a>
+            <a class="nav-link" href="#about">About</a>
+            <a class="nav-link" href="#projects">Projects</a>
+            <a class="nav-link" href="#skills">Skills</a>
+            <a class="nav-link" href="#contact">Contact</a>
+        </nav>
     </header>
-    <div id="about" class="profile-card flex flex-col ">
-        <div class="img"></div>
-        <h2>Sohyp Khaled</h2>
-        <p class="paragraph">Hi! I am sohyp , I am 14 years old , a Full Stack web developer and I am follow that " Never Take Any Code or Copy/Paste it drom AI" I love work </p>
-        <a href="https://github.com/sohyp-tech" class="github" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-github"></i></a>
-    </div>
-    <div id="projects">
-        <div class="first-project">
-            <img src="./athar-img.png" alt="athar project img" class="athar-img">
-            <span class="project-name">Athar site</span>
-            <p class="project-explain">This website allow you read quran, ahadith and search in quran tafsir. you also can login in it and post islamic and useful posts in community.</p>
-            <a href="https://sohyp-tech.github.io/athar-elummah" class="see-project" target="_blank" rel="noopener noreferrer">See Athar =></a>
+
+    <main id="home">
+        <section id="about" class="hero section-shell" aria-labelledby="hero-title">
+            <div class="hero-copy">
+                <p class="eyebrow"><span class="status-dot"></span> Developer &amp; creator</p>
+                <h1 id="hero-title">Hi, I'm <span>Sohyp Khaled</span>.</h1>
+                <p class="hero-text">I build thoughtful web experiences, useful JavaScript tools, and backend projects. I love learning by making things and turning ideas into real products.</p>
+                <div class="hero-actions">
+                    <a class="button button-primary" href="#projects">Explore my work <i class="fa-solid fa-arrow-right" aria-hidden="true"></i></a>
+                    <a class="button button-secondary" href="#contact">Get in touch</a>
+                </div>
+                <a class="social-link" href="https://github.com/sohyp-tech" target="_blank" rel="noopener noreferrer" aria-label="Visit Sohyp on GitHub">
+                    <i class="fa-brands fa-github" aria-hidden="true"></i> github.com/sohyp-tech
+                </a>
+            </div>
+            <div class="hero-profile">
+                <div class="profile-glow" aria-hidden="true"></div>
+                <img class="profile-image" src="https://avatars.githubusercontent.com/u/340741907?v=4" alt="Sohyp's GitHub profile avatar" width="180" height="180">
+                <span class="profile-caption">Building, learning, shipping ✨</span>
+            </div>
+        </section>
+
+        <section id="projects" class="section-shell content-section" aria-labelledby="projects-title">
+            <div class="section-heading">
+                <p class="eyebrow">A few things I've made</p>
+                <h2 id="projects-title">Featured <span>projects</span></h2>
+                <p>Explore my repositories, experiments, and tools.</p>
+            </div>
+            <div class="projects-grid">
+                <article class="project-card">
+                    <div class="project-art art-athar" aria-hidden="true"><span>أثر</span><i class="fa-solid fa-book-open"></i></div>
+                    <div class="project-content">
+                        <div class="project-topline"><h3>Athar</h3><span class="project-type">Web app</span></div>
+                        <p>An Islamic web project for Quran, tafsir, authentic hadith, and community features.</p>
+                        <div class="project-tags"><span>HTML</span><span>JavaScript</span><span>FastAPI</span></div>
+                        <div class="project-links"><a href="https://github.com/sohyp-tech/athar-elummah" target="_blank" rel="noopener noreferrer">Repository <i class="fa-brands fa-github" aria-hidden="true"></i></a><a href="https://sohyp-tech.github.io/athar-elummah" target="_blank" rel="noopener noreferrer">Live site <i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a></div>
+                    </div>
+                </article>
+
+                <article class="project-card">
+                    <div class="project-art art-spark" aria-hidden="true"><span>Spark<span class="art-mark">.JS</span></span><i class="fa-solid fa-bolt"></i></div>
+                    <div class="project-content">
+                        <div class="project-topline"><h3>Spark.JS</h3><span class="project-type">JavaScript</span></div>
+                        <p>A lightweight, dependency-free JavaScript UI framework with simple DOM and layout helpers.</p>
+                        <div class="project-tags"><span>JavaScript</span><span>Framework</span><span>UI</span></div>
+                        <div class="project-links"><a href="https://github.com/sohyp-tech/sparkJS" target="_blank" rel="noopener noreferrer">Repository <i class="fa-brands fa-github" aria-hidden="true"></i></a><a href="https://sohyp-tech.github.io/sparkJS-documentaition" target="_blank" rel="noopener noreferrer">Documentation <i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a></div>
+                    </div>
+                </article>
+
+                <article class="project-card">
+                    <div class="project-art art-aurora" aria-hidden="true"><span>Aurora</span><i class="fa-solid fa-wand-magic-sparkles"></i></div>
+                    <div class="project-content">
+                        <div class="project-topline"><h3>Aurora.css</h3><span class="project-type">CSS library</span></div>
+                        <p>A small utility-first CSS toolkit for building clean, customizable interfaces.</p>
+                        <div class="project-tags"><span>CSS</span><span>Utilities</span><span>Design</span></div>
+                        <div class="project-links"><a href="https://github.com/sohyp-tech/aurora" target="_blank" rel="noopener noreferrer">Repository <i class="fa-brands fa-github" aria-hidden="true"></i></a><a href="https://sohyp-tech.github.io/aurora-documentation" target="_blank" rel="noopener noreferrer">Documentation <i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a></div>
+                    </div>
+                </article>
+
+                <article class="project-card">
+                    <div class="project-art art-vortex" aria-hidden="true"><span>VORTEX</span><i class="fa-solid fa-circle-nodes"></i></div>
+                    <div class="project-content">
+                        <div class="project-topline"><h3>Vortex</h3><span class="project-type">Backend API</span></div>
+                        <p>A FastAPI blog-style REST API for managing users, posts, and comments.</p>
+                        <div class="project-tags"><span>Python</span><span>FastAPI</span><span>SQLAlchemy</span></div>
+                        <div class="project-links"><a href="https://github.com/sohyp-tech/vortex" target="_blank" rel="noopener noreferrer">Repository <i class="fa-brands fa-github" aria-hidden="true"></i></a></div>
+                    </div>
+                </article>
+
+                <article class="project-card">
+                    <div class="project-art art-margan" aria-hidden="true"><span>EL MARGAN</span><i class="fa-solid fa-gem"></i></div>
+                    <div class="project-content">
+                        <div class="project-topline"><h3>El Margan</h3><span class="project-type">Website</span></div>
+                        <p>A web project built with HTML, published as a GitHub Pages site.</p>
+                        <div class="project-tags"><span>HTML</span><span>Web</span></div>
+                        <div class="project-links"><a href="https://github.com/sohyp-tech/el-margan" target="_blank" rel="noopener noreferrer">Repository <i class="fa-brands fa-github" aria-hidden="true"></i></a><a href="https://sohyp-tech.github.io/el-margan" target="_blank" rel="noopener noreferrer">Live site <i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a></div>
+                    </div>
+                </article>
+
+                <article class="project-card">
+                    <div class="project-art art-docs" aria-hidden="true"><span>SPARK<span class="art-mark"> / DOCS</span></span><i class="fa-solid fa-book"></i></div>
+                    <div class="project-content">
+                        <div class="project-topline"><h3>Spark.JS Documentation</h3><span class="project-type">Documentation</span></div>
+                        <p>Guides and reference material for getting started with the Spark.JS framework.</p>
+                        <div class="project-tags"><span>HTML</span><span>JavaScript</span><span>Docs</span></div>
+                        <div class="project-links"><a href="https://github.com/sohyp-tech/sparkJS-documentaition" target="_blank" rel="noopener noreferrer">Repository <i class="fa-brands fa-github" aria-hidden="true"></i></a><a href="https://sohyp-tech.github.io/sparkJS-documentaition" target="_blank" rel="noopener noreferrer">Read docs <i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a></div>
+                    </div>
+                </article>
+
+                <article class="project-card">
+                    <div class="project-art art-aurora-docs" aria-hidden="true"><span>AURORA<span class="art-mark"> / DOCS</span></span><i class="fa-solid fa-file-lines"></i></div>
+                    <div class="project-content">
+                        <div class="project-topline"><h3>Aurora Documentation</h3><span class="project-type">Documentation</span></div>
+                        <p>Project documentation and examples for the Aurora.css utility toolkit.</p>
+                        <div class="project-tags"><span>HTML</span><span>CSS</span><span>Docs</span></div>
+                        <div class="project-links"><a href="https://github.com/sohyp-tech/aurora-documentation" target="_blank" rel="noopener noreferrer">Repository <i class="fa-brands fa-github" aria-hidden="true"></i></a><a href="https://sohyp-tech.github.io/aurora-documentation" target="_blank" rel="noopener noreferrer">Read docs <i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a></div>
+                    </div>
+                </article>
+            </div>
+        </section>
+
+        <section id="skills" class="section-shell content-section" aria-labelledby="skills-title">
+            <div class="section-heading">
+                <p class="eyebrow">Tools I work with</p>
+                <h2 id="skills-title">Skills &amp; <span>stack</span></h2>
+            </div>
+            <div class="skills-grid">
+                <div class="skill-card"><i class="fa-brands fa-html5" aria-hidden="true"></i><span>HTML5</span></div>
+                <div class="skill-card"><i class="fa-brands fa-css3-alt" aria-hidden="true"></i><span>CSS3</span></div>
+                <div class="skill-card"><i class="fa-brands fa-js" aria-hidden="true"></i><span>JavaScript</span></div>
+                <div class="skill-card"><i class="fa-brands fa-python" aria-hidden="true"></i><span>Python</span></div>
+                <div class="skill-card"><i class="fa-solid fa-bolt" aria-hidden="true"></i><span>FastAPI</span></div>
+                <div class="skill-card"><i class="fa-solid fa-database" aria-hidden="true"></i><span>MariaDB</span></div>
+            </div>
+        </section>
+    </main>
+
+    <footer id="contact" class="site-footer section-shell">
+        <div>
+            <p class="eyebrow">Let's connect</p>
+            <h2>Have an idea? <span>Let's talk.</span></h2>
         </div>
-    </div>
-    <div id="skills">
-        <div class="skill-1">
-            <i class="fa-brands fa-html5"></i>
-            <span>HTML5</span>
+        <div class="contact-links">
+            <a href="https://wa.me/+2001020929052" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-whatsapp" aria-hidden="true"></i> WhatsApp</a>
+            <a href="mailto:sohyp14@outlook.com"><i class="fa-regular fa-envelope" aria-hidden="true"></i> Email</a>
+            <a href="https://github.com/sohyp-tech" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-github" aria-hidden="true"></i> GitHub</a>
         </div>
-        <div class="skill-1">
-            <i class="fa-brands fa-css3"></i>
-            <span> CSS3</span>
-        </div>
-        <div class="skill-3">
-            <i class="fa-brands fa-js"></i>
-            <span>JavaScript</span>
-        </div>
-        <div class="skill-4">
-            <i class="fa-brands fa-python"></i>
-            <span>Python</span>
-        </div>
-        <div class="skill-5">
-            <i class="fa-solid fa-bolt"></i>
-            <span>FastAPI</span>
-        </div>
-        <div class="skill-6">
-            <i class="fa-solid fa-server"></i>
-            <span>SQLite</span>
-        </div>
-    </div>
-    <footer id="contact">
-        <span>Contact Me: </span>
-        <a href="https://wa.me/+2001020929052" class="contact-me" target="_blank" rel="noopener noreferrer"> WhatsApp</a>
-        <a href="mailto:sohyp14@outlook.com" class="contact-me-e" target="_blank" rel="noopener noreferrer">Email</a>
-        <p class="with-love">Made With Love By <b>sohyp-tech</b></p>
+        <p class="footer-note">Made with care by <strong>sohyp-tech</strong></p>
     </footer>
-    <script src="script.js"></script>
 </body>
 </html>

@@ -36,32 +36,33 @@ I enjoy creating lightweight libraries, web projects, and backend services—fro
 
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo= sqlalchemy&logoColor=white" alt="SQLAlchemy" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-> My public repositories currently use HTML, JavaScript, CSS, and Python. Framework and tool badges reflect technologies used in my projects.
+> My public repositories currently use HTML, JavaScript, CSS, and Python. Framework and tool badges reflect technologies used in my projects and the stack I'm building with.
 
 ## Featured projects
 
 | Project | Description | Links |
 | --- | --- | --- |
-| **Spark.JS** | A lightweight, zero-dependency, Flutter-inspired JavaScript UI framework. | [Repository](https://github.com/sohyp-tech/sparkJS) · [Documentation](https://sohyp-tech.github.io/sparkJS-documentation) |
-| **Aurora.css** | A lightweight CSS library for clean, modern interfaces. | [Repository](https://github.com/sohyp-tech/aurora) · [Documentation](https://sohyp-tech.github.io/aurora-documentation/) |
-| **Athar** | An end-to-end web project. | [Repository](https://github.com/sohyp-tech/athar-elummah) · [Live site](https://sohyp-tech.github.io/athar-elummah) |
+| **Spark.JS** | A lightweight, zero-dependency, Flutter-inspired JavaScript UI framework. | [Repository](https://github.com/sohyp-tech/sparkJS) · [Documentation](https://sohyp-tech.github.io/sparkJS-documentaition) |
+| **Aurora.css** | A lightweight CSS library for clean, modern interfaces. | [Repository](https://github.com/sohyp-tech/aurora) · [Documentation](https://sohyp-tech.github.io/aurora-documentation) |
+| **Athar** | An end-to-end web project for Quran, hadith, tafsir, and community features. | [Repository](https://github.com/sohyp-tech/athar-elummah) · [Live site](https://sohyp-tech.github.io/athar-elummah) |
 | **Vortex** | A blog-style REST API for users, posts, and comments, built with FastAPI. | [Repository](https://github.com/sohyp-tech/vortex) |
+| **El Margan** | A web project built with HTML. | [Repository](https://github.com/sohyp-tech/el-margan) · [Live site](https://sohyp-tech.github.io/el-margan) |
 
 ## GitHub statistics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sohyp-tech&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="Sohyp's GitHub statistics" />
-  <img height="170" src="https://streak-stats.demolab.com?user=sohyp-tech&theme=tokyonight&hide_border=true" alt="Sohyp's GitHub streak statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sohyp-tech&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="Sohyp's GitHub statistics" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=sohyp-tech&theme=tokyonight&hide_border=true" alt="Sohyp's GitHub streak statistics" />
 </div>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohyp-tech&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Most-used languages across Sohyp's public repositories" />
+  <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohyp-tech&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Most-used languages across Sohyp's public repositories" />
 </div>
 
 ### Language breakdown
