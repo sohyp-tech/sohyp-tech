@@ -9,7 +9,7 @@ I enjoy creating lightweight libraries, web projects, and backend services—fro
 [![Website](https://img.shields.io/badge/Website-Visit-111827?style=for-the-badge&logo=About.me&logoColor=white)](https://sohyp-tech.github.io/sohyp-tech)
 [![X](https://img.shields.io/badge/Follow%20on-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ghosttech14)
 [![Facebook](https://img.shields.io/badge/Follow%20on-Facebook-000000?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61596260494542)
-[![GitHub followers](https://img.shields.io/github/followers/sohyp-tech?style=for-the-badge&logo=github&label=Followers)](https://github.com/sohyp-tech?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/sohyp-tech?style=for-the-badge&logo=github&logoColor=white&label=Followers)](https://github.com/sohyp-tech?tab=followers)
 
 </div>
 
@@ -53,7 +53,7 @@ I enjoy creating lightweight libraries, web projects, and backend services—fro
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub logo" />
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="30" alt="GitHub logo" />
 </p>
 
 > My public projects use HTML, JavaScript, CSS, and Python. The badges show technologies I use or am learning; they don't imply that every project uses all of them.
@@ -73,8 +73,8 @@ I enjoy creating lightweight libraries, web projects, and backend services—fro
 
 <div align="center">
 
-[![Public repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsohyp-tech&query=%24.public_repos&label=Public%20repositories&style=for-the-badge&logo=github)](https://github.com/sohyp-tech?tab=repositories)
-[![GitHub followers](https://img.shields.io/github/followers/sohyp-tech?style=for-the-badge&logo=github&label=Followers&color=0969da)](https://github.com/sohyp-tech?tab=followers)
+[![Public repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsohyp-tech&query=%24.public_repos&label=Public%20repositories&style=for-the-badge&logo=github&logoColor=white)](https://github.com/sohyp-tech?tab=repositories)
+[![GitHub followers](https://img.shields.io/github/followers/sohyp-tech?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=0969da)](https://github.com/sohyp-tech?tab=followers)
 
 ### Profile statistics
 
