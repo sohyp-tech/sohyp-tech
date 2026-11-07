@@ -28,21 +28,29 @@ I enjoy creating lightweight libraries, web projects, and backend services—fro
 ### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
 </p>
 
 ### Frameworks, databases, and tools
 
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="FastAPI logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="30" alt="SQLAlchemy logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="SQLite logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="30" alt="MariaDB logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub logo" />
 </p>
 
 > My public projects use HTML, JavaScript, CSS, and Python. The badges show technologies I use or am learning; they don't imply that every project uses all of them.
@@ -51,7 +59,7 @@ I enjoy creating lightweight libraries, web projects, and backend services—fro
 
 | Project | Description | Links |
 | --- | --- | --- |
-| **Spark.JS** | A lightweight, zero-dependency, Flutter-inspired JavaScript UI framework. | [Repository](https://github.com/sohyp-tech/sparkJS) · [Documentation](https://sohyp-tech.github.io/sparkJS-documentaittion) |
+| **Spark.JS** | A lightweight, zero-dependency, Flutter-inspired JavaScript UI framework. | [Repository](https://github.com/sohyp-tech/sparkJS) · [Documentation](https://sohyp-tech.github.io/sparkJS-documentaition) |
 | **Aurora.css** | A lightweight CSS library for clean, modern interfaces. | [Repository](https://github.com/sohyp-tech/aurora) · [Documentation](https://sohyp-tech.github.io/aurora-documentation) |
 | **Athar** | An end-to-end web project for Quran, hadith, tafsir, and community features. | [Repository](https://github.com/sohyp-tech/athar-elummah) · [Live site](https://sohyp-tech.github.io/athar-elummah) |
 | **Atlas** | An early-stage FastAPI project for sharing and reading books, with a SQLAlchemy database layer. | [Repository](https://github.com/sohyp-tech/atlas) |
