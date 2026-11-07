@@ -43,6 +43,8 @@ I enjoy creating lightweight libraries, web projects, and backend services—fro
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="FastAPI logo" />
   <img width="12" />
+  <img src="assets/spark-js-logo.svg" height="30" alt="Spark.JS logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="30" alt="SQLAlchemy logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="SQLite logo" />
@@ -60,9 +62,9 @@ I enjoy creating lightweight libraries, web projects, and backend services—fro
 
 | Project | Description | Links |
 | --- | --- | --- |
-| <img src="assets/spark-js-logo.svg" height="34" alt="Spark.JS" /> | A lightweight, zero-dependency, Flutter-inspired JavaScript UI framework. | [Repository](https://github.com/sohyp-tech/sparkJS) · [Documentation](https://sohyp-tech.github.io/sparkJS) |
+| **Spark.JS** | A lightweight, zero-dependency, Flutter-inspired JavaScript UI framework. | [Repository](https://github.com/sohyp-tech/sparkJS) · [Documentation](https://sohyp-tech.github.io/sparkJS-documentaition) |
 | **Aurora.css** | A lightweight CSS library for clean, modern interfaces. | [Repository](https://github.com/sohyp-tech/aurora) · [Documentation](https://sohyp-tech.github.io/aurora-documentation) |
-| **Athar** | An end-to-end web project for Quran, hadith, tafsir, and community features. | [Repository](https://github.com/sohyp-tech/athar-elummah) · [Live site](https://sohyp-tech.github.io/athar) |
+| **Athar** | An end-to-end web project for Quran, hadith, tafsir, and community features. | [Repository](https://github.com/sohyp-tech/athar-elummah) · [Live site](https://sohyp-tech.github.io/athar-elummah) |
 | **Atlas** | An early-stage FastAPI project for sharing and reading books, with a SQLAlchemy database layer. | [Repository](https://github.com/sohyp-tech/atlas) |
 | **Vortex** | A blog-style REST API for users, posts, and comments, built with FastAPI. | [Repository](https://github.com/sohyp-tech/vortex) |
 | **El Margan** | A web project built with HTML. | [Repository](https://github.com/sohyp-tech/el-margan) · [Live site](https://sohyp-tech.github.io/el-margan) |
@@ -90,7 +92,7 @@ I enjoy creating lightweight libraries, web projects, and backend services—fro
 
 </div>
 
-The language percentages above are calculated from GitHub's detected source-code bytes across my public repositories, so JavaScript and Python are included even though they don't appear in this profile's tech-stack icons.
+The language percentages above are calculated from GitHub's detected source-code bytes across my public repositories, so JavaScript and Python are included even though they don't appear in this profile's top language list.
 
 ## Let's connect
 
