@@ -8,7 +8,7 @@ I enjoy creating lightweight libraries, web projects, and backend services—fro
 
 [![Website](https://img.shields.io/badge/Website-Visit-111827?style=for-the-badge&logo=About.me&logoColor=white)](https://sohyp-tech.github.io/sohyp-tech)
 [![X](https://img.shields.io/badge/Follow%20on-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ghosttech14)
-[![Facebook](https://img.shields.io/badge/Follow%20on-Facebook-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.facebook.com/profile.php?id=61596260494542)
+[![Facebook](https://img.shields.io/badge/Follow%20on-Facebook-000000?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61596260494542)
 [![GitHub followers](https://img.shields.io/github/followers/sohyp-tech?style=for-the-badge&logo=github&label=Followers)](https://github.com/sohyp-tech?tab=followers)
 
 </div>
