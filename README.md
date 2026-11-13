@@ -7,8 +7,8 @@
 I enjoy creating lightweight libraries, web projects, and backend services—from the first idea to a working product.
 
 [![Website](https://img.shields.io/badge/Website-Visit-111827?style=for-the-badge&logo=About.me&logoColor=white)](https://sohyp-tech.github.io/sohyp-tech)
-[![X](https://img.shields.io/badge/Follow%20on-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ghosttech14)
-[![Facebook](https://img.shields.io/badge/Follow%20on-Facebook-000000?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61596260494542)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ghosttech14)
+[![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61596260494542)
 [![GitHub followers](https://img.shields.io/github/followers/sohyp-tech?style=for-the-badge&logo=github&logoColor=white&label=Followers)](https://github.com/sohyp-tech?tab=followers)
 
 </div>
@@ -49,7 +49,7 @@ I enjoy creating lightweight libraries, web projects, and backend services—fro
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="SQLite logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="30" alt="MariaDB logo" />
+  <img src="https://cdn.simpleicons.org/mariadb/003545" height="30" alt="MariaDB logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" />
   <img width="12" />
@@ -85,14 +85,14 @@ I enjoy creating lightweight libraries, web projects, and backend services—fro
 
 | Language | Percentage |
 | --- | ---: |
-| HTML | 38.45% |
-| JavaScript | 26.17% |
-| CSS | 21.90% |
-| Python | 13.48% |
+| HTML | 32.79% |
+| JavaScript | 26.78% |
+| Python | 21.77% |
+| CSS | 18.66% |
 
 </div>
 
-The language percentages above are calculated from GitHub's detected source-code bytes across my public repositories, so JavaScript and Python are included even though they don't appear in this profile's top language list.
+> Percentages are calculated from GitHub's detected source-code byte counts across my public repositories (checked November 13, 2026). They may change as repositories and code change.
 
 ## Let's connect
 
